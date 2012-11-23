@@ -838,7 +838,7 @@ a.price {
 
 .news.lenta {
     position: relative;
-    overflow: visible;
+    overflow: auto;
 }
 
 .likes span {
@@ -1034,4 +1034,117 @@ h4 {
     color: #fff;
     text-decoration: none;
     font-weight: bold;
+}
+
+.video{
+    background: #fff url("../images/video_imag.jpg") no-repeat center;
+    height: 220px;
+    border: 4px solid #f0f0f0;
+    box-shadow: 0 0 2px #666;
+    border-radius: 3px;
+    -webkit-border-radius: 3px;
+    margin-bottom: 10px;
+
+}
+
+.ocenka{
+    background: #ab1b36 url("../images/blik.jpg") no-repeat left;
+    text-align: center;
+    font-size: 40px;
+    height: 49px;
+    color: #fff;
+    text-shadow: 1px 1px #62212d;
+    border-radius: 3px;
+    -webkit-border-radius: 3px;
+    margin-bottom: 12px;
+
+}
+
+.txt a.price{
+    margin: 0 auto;
+    display: block;
+    background: url("../images/uznat_ceny.png") no-repeat top;
+    width:213px;
+    height: 36px;
+    box-shadow: none;
+    border-radius: 0;
+    -webkit-border-radius: 0;
+    border:0;
+    font-size: 24px;
+    text-shadow: 1px 1px #62212d;
+    padding-top: 13px;
+
+
+
+
+
+
+}
+
+.txt a.price:hover{
+    background: url("../images/uznat_ceny.png") no-repeat bottom;
+
+}
+
+.txt .sum{
+    color: #666565;
+    font-size: 18px;
+    display: block;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.txt p{
+    font-size: 18px;
+    color: #000;
+    line-height: 24px;
+    text-align: center;
+    margin-bottom: 15px;
+
+}
+
+.txt p span{
+    font-size: 24px;
+
+
+
+}
+
+.tags{
+    padding-top: 35px;
+}
+
+.tags .name{
+    color: #000;
+    font-size: 22px;
+    display: block;
+    margin-bottom: 10px;
+}
+.tags a{
+    color: #686868;
+    font-size: 12px;
+    line-height: 16px;
+
+}
+
+.tags .size1{
+    font-size: 10px;
+}
+
+.tags .size2{
+    font-size: 12px;
+
+}
+
+.tags .size3{
+    font-size: 14px;
+}
+
+.tags .size4{
+    font-size: 16px;
+}
+
+
+.tags .size5{
+    font-size: 18px;
 }
