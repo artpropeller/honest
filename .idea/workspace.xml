@@ -2,23 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="84e6df11-cff0-429e-978a-310fceced657" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/car_on_money.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/left_li_razdel.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/left_top_line.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/list_marker_red.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/red_active_punkt.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/red_active_punkt.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/right_line_razdel.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/right_rad_line.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/rihtochka.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/small_red_arow.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/three_cars.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/top_right_line_razdel.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/law2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/law3.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/law4.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/50pr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/70pr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/ballon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/ico_money.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/ico_richtochka.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/ico_shield.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/li_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/sector.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/slidearr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/sprite_calc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/corporate.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legkoe.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
+      <change type="MOVED" beforePath="D:\workspere\markup\honest\law2.html" afterPath="$PROJECT_DIR$/calc.html" />
+      <change type="MOVED" beforePath="D:\workspere\markup\honest\law3.html" afterPath="$PROJECT_DIR$/corporate-2.html" />
+      <change type="MOVED" beforePath="D:\workspere\markup\honest\law4.html" afterPath="$PROJECT_DIR$/corporate-3.html" />
     </list>
     <ignored path="HONEST.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -38,45 +38,42 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="law2.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/law2.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="154" column="62" selection-start="6233" selection-end="6233" vertical-scroll-proportion="-14.192307">
-              <folding>
-                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#2;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1202" column="14" selection-start="18573" selection-end="18573" vertical-scroll-proportion="0.70305675">
+            <state line="1731" column="0" selection-start="31990" selection-end="31990" vertical-scroll-proportion="0.7863555">
               <folding>
                 <element signature="e#20428#21091#2" expanded="true" />
+                <element signature="e#22888#23551#2" expanded="true" />
+                <element signature="e#26121#26784#2" expanded="true" />
+                <element signature="e#29801#30464#2" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="law3.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/law3.html">
+      <file leaf-file-name="corporate-2.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/corporate-2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="104" column="28" selection-start="3844" selection-end="3844" vertical-scroll-proportion="-11.115385">
-              <folding>
-                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#2;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="law4.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/law4.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="121" column="74" selection-start="4496" selection-end="4496" vertical-scroll-proportion="-18.307692">
+            <state line="117" column="41" selection-start="4334" selection-end="4334" vertical-scroll-proportion="0.0">
               <folding />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="legkoe.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/legkoe.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="131" column="43" selection-start="5317" selection-end="5317" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="red_but_bg.jpg" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/red_but_bg.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
@@ -109,15 +106,18 @@
         <option value="$PROJECT_DIR$/law2.html" />
         <option value="$PROJECT_DIR$/law3.html" />
         <option value="$PROJECT_DIR$/law4.html" />
+        <option value="$PROJECT_DIR$/calc.html" />
+        <option value="$PROJECT_DIR$/legkoe.html" />
         <option value="$PROJECT_DIR$/css/style.css" />
       </list>
     </option>
   </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1456" />
-    <option name="height" value="886" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -145,7 +145,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -178,36 +177,9 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HONEST" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="honest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HONEST" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="honest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -215,11 +187,12 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
     <property name="last_opened_file_path" value="D:/Авангард Кольца" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspere\markup\honest" />
       <recent name="D:\honest" />
       <recent name="D:\HONEST\js" />
     </key>
@@ -283,14 +256,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1456" height="886" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24064925" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25227273" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -300,6 +273,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -360,45 +334,9 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/images/video_imag.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/blik.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/uznat_ceny.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/law.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="309" column="27" selection-start="11800" selection-end="11800" vertical-scroll-proportion="1.8640915">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/lib/webide.jar!/resources/html5-schema/common.rnc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="123" column="23" selection-start="3254" selection-end="3274" vertical-scroll-proportion="0.3324138">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="22" column="3" selection-start="362" selection-end="362" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/auto.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="71" column="10" selection-start="2904" selection-end="2904" vertical-scroll-proportion="0.8381924">
           <folding />
         </state>
       </provider>
@@ -428,36 +366,63 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/law2.html">
+    <entry file="file://$PROJECT_DIR$/auto.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="154" column="62" selection-start="6233" selection-end="6233" vertical-scroll-proportion="-14.192307">
-          <folding>
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#2;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state line="48" column="33" selection-start="1834" selection-end="1834" vertical-scroll-proportion="-1.0384616" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="23" selection-start="53" selection-end="53" vertical-scroll-proportion="-1.9615384" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/law.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="281" column="38" selection-start="10365" selection-end="10365" vertical-scroll-proportion="-1.8846154" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/corporate-3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="128" column="46" selection-start="4886" selection-end="4887" vertical-scroll-proportion="-5.230769" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/corporate.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="156" column="30" selection-start="6326" selection-end="6326" vertical-scroll-proportion="-1.2326454" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/red_but_bg.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/calc.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="275" column="22" selection-start="8597" selection-end="8597" vertical-scroll-proportion="-7.1923075" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/corporate-2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="117" column="41" selection-start="4334" selection-end="4334" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/law3.html">
+    <entry file="file://$PROJECT_DIR$/legkoe.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="104" column="28" selection-start="3844" selection-end="3844" vertical-scroll-proportion="-11.115385">
-          <folding>
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#2;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/law4.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="121" column="74" selection-start="4496" selection-end="4496" vertical-scroll-proportion="-18.307692">
+        <state line="131" column="43" selection-start="5317" selection-end="5317" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1202" column="14" selection-start="18573" selection-end="18573" vertical-scroll-proportion="0.70305675">
+        <state line="1731" column="0" selection-start="31990" selection-end="31990" vertical-scroll-proportion="0.7863555">
           <folding>
             <element signature="e#20428#21091#2" expanded="true" />
+            <element signature="e#22888#23551#2" expanded="true" />
+            <element signature="e#26121#26784#2" expanded="true" />
+            <element signature="e#29801#30464#2" expanded="true" />
           </folding>
         </state>
       </provider>
