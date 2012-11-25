@@ -160,6 +160,10 @@ a:hover {
     opacity: 0.5;
 }
 
+.slider li img:hover{
+    opacity: 1;
+}
+
 .slider {
     height: 400px;
 }

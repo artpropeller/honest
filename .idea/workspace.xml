@@ -3,15 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="84e6df11-cff0-429e-978a-310fceced657" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/auto.html" afterPath="$PROJECT_DIR$/auto.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/calc.html" afterPath="$PROJECT_DIR$/calc.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/corporate-2.html" afterPath="$PROJECT_DIR$/corporate-2.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/corporate-3.html" afterPath="$PROJECT_DIR$/corporate-3.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/corporate.html" afterPath="$PROJECT_DIR$/corporate.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/law.html" afterPath="$PROJECT_DIR$/law.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/legkoe.html" afterPath="$PROJECT_DIR$/legkoe.html" />
     </list>
     <ignored path="HONEST.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -40,10 +32,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="legkoe.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="legkoe.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/legkoe.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="66" selection-start="464" selection-end="464" vertical-scroll-proportion="0.20512821">
+            <state line="8" column="66" selection-start="464" selection-end="464" vertical-scroll-proportion="-5.230769">
               <folding />
             </state>
           </provider>
@@ -58,14 +50,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="144" column="16" selection-start="2022" selection-end="2022" vertical-scroll-proportion="-5.52">
+            <state line="163" column="14" selection-start="2262" selection-end="2262" vertical-scroll-proportion="0.47311828">
               <folding>
-                <element signature="e#27171#27834#2" expanded="true" />
-                <element signature="e#30404#31067#2" expanded="true" />
-                <element signature="e#34084#34747#2" expanded="true" />
+                <element signature="e#27212#27875#2" expanded="true" />
+                <element signature="e#30445#31108#2" expanded="true" />
+                <element signature="e#34125#34788#2" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -143,7 +135,6 @@
         <option value="$PROJECT_DIR$/law4.html" />
         <option value="$PROJECT_DIR$/css/style_copy.css" />
         <option value="$PROJECT_DIR$/js/main.js" />
-        <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/auto.html" />
         <option value="$PROJECT_DIR$/calc.html" />
         <option value="$PROJECT_DIR$/corporate-2.html" />
@@ -153,6 +144,7 @@
         <option value="$PROJECT_DIR$/law.html" />
         <option value="$PROJECT_DIR$/law5.html" />
         <option value="$PROJECT_DIR$/legkoe.html" />
+        <option value="$PROJECT_DIR$/css/style.css" />
       </list>
     </option>
   </component>
@@ -327,7 +319,11 @@
       <created>1353849616481</created>
       <updated>1353849616481</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="last_change">
+      <created>1353849979839</created>
+      <updated>1353849979839</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -338,7 +334,7 @@
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24391988" sideWeight="0.6706667" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24391988" sideWeight="0.6706667" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32933334" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -440,17 +436,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="144" column="16" selection-start="2022" selection-end="2022" vertical-scroll-proportion="-5.52">
-          <folding>
-            <element signature="e#27171#27834#2" expanded="true" />
-            <element signature="e#30404#31067#2" expanded="true" />
-            <element signature="e#34084#34747#2" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/auto.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="89" selection-start="372" selection-end="372" vertical-scroll-proportion="-4.576923">
@@ -509,8 +494,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/legkoe.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="66" selection-start="464" selection-end="464" vertical-scroll-proportion="0.20512821">
+        <state line="8" column="66" selection-start="464" selection-end="464" vertical-scroll-proportion="-5.230769">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="163" column="14" selection-start="2262" selection-end="2262" vertical-scroll-proportion="0.47311828">
+          <folding>
+            <element signature="e#27212#27875#2" expanded="true" />
+            <element signature="e#30445#31108#2" expanded="true" />
+            <element signature="e#34125#34788#2" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
