@@ -32,7 +32,7 @@ $(function () {
         $('.consult_window').fadeOut(100);
     });
 
-    grayscale.prepare( $('.slider img') );
+//    grayscale.prepare( $('.slider img') );
     grayscale($('.slider img'));
 
     $('.slider img').hover(function () {
