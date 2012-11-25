@@ -1218,6 +1218,7 @@ h4 {
     position: relative;
     padding-left: 1px;
 
+
 }
 
 .line_thin {
@@ -1347,276 +1348,28 @@ h4 {
 
 }
 
-.stoimost {
+.stoimost{
     padding: 20px 20px 20px 45px;
 
 }
 
-.stoimost .black {
-    display: inline-block;
+.stoimost .black{
+   display: inline-block;
 }
 
-.stoimost p span {
+
+.stoimost p span{
     color: #ac1835;
     font-size: 36px;
 }
 
-.stoimost p {
+.stoimost p{
     display: inline-block;
 }
 
-.stoimost p span em {
+
+.stoimost p span em{
     font-style: normal;
     font-size: 18px;
 }
-
-.expert_company {
-    margin-bottom: 50px;
-
-}
-
-.expert_company .zag {
-    color: #ad1935;
-    font-size: 24px;
-    margin-bottom: 25px;
-    display: block;
-
-}
-
-.expert_company .cont {
-    background: url("../images/first_place_big.jpg") no-repeat left top;
-    padding-left: 180px;
-
-}
-
-.expert_company ul {
-    background: #f8f8f8;
-    border-radius: 3px;
-    -webkit-border-radius: 4px;
-
-}
-
-.expert_company li {
-    border-bottom: 1px dashed #ad1a36;
-    background: url("../images/list_marker_red.jpg") no-repeat 20px 23px;
-    color: #403f3f;
-    line-height: 24px;
-    padding: 15px 0 15px 40px;
-
-}
-
-.expert_company li.last {
-    border: 0
-}
-
-.give {
-
-}
-
-.give .zag {
-    font-size: 22px;
-    color: #ad1935;
-    display: block;
-    position: relative;
-    margin-bottom: 10px;
-}
-
-.give .left_part, .give .right_part {
-    float: left;
-    width: 50%;
-    border-bottom: 1px dashed #bfbfbf;
-    background: url("../images/red_ugol.png") no-repeat right bottom;
-
-
-}
-
-.give .left_part .inner {
-    border-right: 1px dashed #bfbfbf;
-    padding-right: 20px;
-    overflow: auto;
-
-}
-
-.give .right_part .inner {
-    padding-right: 20px;
-    overflow: auto;
-
-}
-
-.give .img {
-    display: block;
-    text-align: center;
-
-}
-
-.give .right_part .inner {
-    padding-left: 35px;
-}
-
-.give .first {
-    color: #000;
-    background: url("../images/list_marker_red.jpg") no-repeat left 8px;
-    padding-left: 15px;
-    margin-bottom: 0;
-}
-
-.give p {
-    color: #918f8f;
-    line-height: 22px;
-    padding-left: 15px;
-    margin-bottom: 45px;
-}
-
-.give strong {
-    color: #6f6f6f;
-}
-
-.consultation {
-    background: url("../images/consult_big_buttton.png") no-repeat top;
-    width: 70px;
-    height: 146px;
-    position: fixed;
-    right: -1px;
-    top: 250px;
-    cursor: pointer;
-    z-index: 500;
-
-}
-
-.consultation:hover {
-    background: url("../images/consult_big_buttton.png") no-repeat bottom;
-
-}
-
-.consult_window {
-    position: fixed;
-    right: 90px;
-    width: 232px;
-    background: #fff;
-    overflow: auto;
-    border-radius: 6px;
-    -webkit-border-radius: 6px;
-    padding-bottom: 15px;
-    box-shadow: 0 0 10px #666;
-    display: none;
-    z-index: 1000;
-    top:250px;
-
-}
-
-.consultant img {
-    float: left;
-    border: 1px solid #bbb9b9;
-    margin-right: 10px;
-
-}
-
-.consultant {
-    padding: 15px;
-    background: #fbfbfb;
-    overflow: auto;
-
-}
-
-.consult_window .heading {
-    background: url("../images/consult_bg.jpg") repeat-x;
-    height: 29px;
-    border-radius: 6px 6px 0 0;
-    -webkit-border-radius: 6px 6px 0 0;
-}
-
-.consultant .nic {
-    color: #92172e;
-    font-size: 15px;
-    font-weight: bold;
-    display: block;
-    margin-bottom: 5px;
-    padding-top: 10px;
-}
-
-.consultant p {
-    color: #7b7a7a;
-    font-size: 12px;
-}
-
-.window_name {
-    float: left;
-    color: #fff;
-    font-size: 14px;
-    font-weight: bold;
-    padding-top: 7px;
-    padding-left: 15px;
-}
-
-.consult_window .svernut {
-    float: right;
-    background: url("../images/consult_ico.png") no-repeat left top;
-    width: 12px;
-    height: 13px;
-    cursor: pointer;
-    margin-top: 7px;
-    margin-right: 10px;
-    cursor: pointer;
-
-}
-
-.consult_window .close {
-    float: right;
-    background: url("../images/consult_ico.png") no-repeat right top;
-    width: 12px;
-    height: 13px;
-    cursor: pointer;
-    margin-top: 7px;
-    margin-right: 15px;
-    cursor: pointer;
-}
-
-.consult_window textarea{
-    background: #fff;
-    border: 1px solid #ccc9c9;
-    width: 198px;
-    margin-left: 15px;
-    resize: none;
-    height: 125px;
-    margin-top: 15px;
-    font-family: arial, sans-serif;
-    margin-bottom: 15px;
-}
-
-.send{
-    background: url("../images/-consult_but.jpg") no-repeat left;
-    width: 97px;
-    display: block;
-    float: right;
-    height: 22px;
-    color: #fff;
-    text-shadow: 1px 1px #5a0313;
-    text-align: center;
-    font-size: 13px;
-    margin-right: 15px;
-    text-decoration: none;
-    padding-top: 8px;
-
-
-}
-
-.send:hover{
-    background: url("../images/-consult_but.jpg") no-repeat right;
-
-}
-
-.give .arr{
-    cursor: pointer;
-    background: url("../images/small_red_arow.jpg") no-repeat;
-    width: 19px;
-    height: 19px;
-    display: inline-block;
-    float: none;
-    margin-bottom: -5px;
-
-}
-
-
-
-
 

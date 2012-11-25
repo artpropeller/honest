@@ -1,0 +1,295 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Main</title>
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8"/>
+    <link type="text/css" rel="stylesheet" media="all" href="css/reset.css"/>
+    <link type="text/css" rel="stylesheet" media="all" href="css/style.css"/>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+    <script type="text/javascript" src="js/jquery.mousewheel.min.js"></script>
+    <script type="text/javascript" src="js/jcarousellite_1.0.1.pack.js"></script>
+    <script type="text/javascript" src="js/main.js"></script>
+</head>
+<body>
+<div id="container">
+<div class="container_top">
+<div class="left">
+    <div class="logo">
+        <a href="/"><img src="images/honest_logo.jpg" width="221" alt=""></a>
+    </div>
+    <ul class="menu">
+        <li><a href="#">О компании</a></li>
+        <li><a href="#">События</a></li>
+        <li><a href="#">Услуги</a></li>
+        <li><a href="#">Цены</a></li>
+        <li><a href="#">Отзывы</a></li>
+        <li class="last"><a href="#">Контакты</a></li>
+    </ul>
+
+    <div class="clients">
+        <span class="name">Наши клиенты:</span>
+
+        <div class="next"></div>
+        <div class="slider">
+            <ul>
+                <li class="first real">
+                    <img src="images/dhl_logo.jpg" width="134" alt="">
+                    <span>DHL Express</span>
+                </li>
+
+                <li class="first">
+                    <img src="images/ort_logo.jpg" width="134" alt="">
+                    <span>Телеканал ОРТ-1</span>
+                </li>
+
+                <li class="first">
+                    <img src="images/rt_logo.jpg" width="134" alt="">
+                    <span>Телеканал Russia Today</span>
+                </li>
+                <li class="last">
+                    <img src="images/kontinent_logo.jpg" width="134" alt="">
+                    <span>Седьмой Континент</span>
+                </li>
+
+
+            </ul>
+        </div>
+        <div class="prev"></div>
+        <a class="all_clients arr" href="#">все клиенты</a>
+    </div>
+
+</div>
+<div class="right">
+<div class="head">
+    <div class="first">
+        <a href="#">Почему мы?</a>
+
+    </div>
+    <div class="contacts">
+        <div class="cod">
+            ваш код: 3423419
+        </div>
+        <div class="phone">
+            <em>495/</em>
+            <span>228-06-95</span>
+
+            <div class="clr"></div>
+        </div>
+
+        <div class="adres">
+            <em>Москва:</em>
+            <a href="#">Рязанский проспект</a>
+            <a class="arr" href="#">ещё контакты</a>
+        </div>
+
+    </div>
+</div>
+
+<div class="breadcrumbs">
+    <ul>
+        <li><a href="#">Главная</a></li>
+        <li><a href="#">Цены</a></li>
+        <li class="active"><a href="#">Расчет стоимости оценки</a></li>
+    </ul>
+
+</div>
+
+<h1>Расчет стоимости оценки</h1>
+
+<div class="right-banners">
+    <h2>Уникальные предложения:</h2>
+
+    <div class="banner-red">
+        <h3>Порвем страховую в суде</h3>
+
+        <div class="img"><img src="images/ico_shield.png" alt=""></div>
+        <ul>
+            <li>Заставим <strong>страховую заплатить</strong> по-максимуму.</li>
+            <li>Даем <strong>финансовые гарантии</strong>.</li>
+        </ul>
+    </div>
+    <div class="banner-white">
+        <div class="ballon">В случае ОСАГО</div>
+        <h3>Порвем страховую в суде</h3>
+
+        <div class="inset">
+            <div class="img"><img src="images/ico_money.png" alt=""></div>
+            <ul>
+                <li><strong>50%</strong> в течении 3 дней</li>
+                <li><strong>70%</strong> после суда</li>
+            </ul>
+            <div class="gray">ОТ СУММЫ НАШЕЙ ОЦЕНКИ</div>
+        </div>
+    </div>
+    <div class="banner-red service">
+        <div class="img"><img src="images/ico_richtochka.png" alt=""></div>
+        <h3>Бесплатный ремонт</h3>
+    </div>
+</div>
+
+<div class="calc">
+    <h2>Консультация - <span>бесплатно!</span></h2>
+
+    <div id="calculator">
+        <div class="sector">
+            <div class="item">
+                <div class="label">
+                    Акт осмотра
+                    <a class="faq" href="#"></a>
+                </div>
+                <label for="check1" class="active">
+                    <input type="checkbox" id="check1">
+                </label>
+            </div>
+            <div class="item">
+                <div class="label">
+                    Выезд
+                    <a class="faq" href="#"></a>
+                </div>
+                <label for="check1" class="radio active">
+                    <input type="radio" id="check2">
+                </label>
+            </div>
+            <div class="item">
+                <div class="label">
+                    Осмотр на нашей тех. станции <span>(бесплатно)</span>
+                    <a class="faq" href="#"></a>
+                </div>
+                <label for="check1" class="radio">
+                    <input type="radio" id="check3">
+                </label>
+            </div>
+        </div>
+        <div class="sector">
+            <div class="item">
+                <div class="label">
+                    Составление калькуляции:
+                    <a class="faq" href="#"></a>
+                </div>
+                <label for="check4" class="active">
+                    <input type="checkbox" id="check4">
+                </label>
+            </div>
+
+        </div>
+        <div class="sector">
+            <div class="item">
+                <div class="label">
+                    Малая
+                    <a class="faq" href="#"></a>
+                </div>
+                <label for="check5">
+                    <input type="checkbox" id="check5">
+                </label>
+            </div>
+
+        </div>
+
+        <div class="sector group">
+            <div class="name">
+                <strong>Степень повреждения:</strong>
+                <div class="item">
+                    <div class="label">
+                        Малая
+                    </div>
+                    <label for="check5" class="radio">
+                        <input type="checkbox" id="check5">
+                    </label>
+                </div>
+                <div class="item">
+                    <div class="label">
+                        Средняя
+                    </div>
+                    <label for="check5" class="radio">
+                        <input type="checkbox" id="check5">
+                    </label>
+                </div>
+                <div class="item">
+                    <div class="label">
+                        Большая
+                    </div>
+                    <label for="check5" class="radio">
+                        <input type="checkbox" id="check5">
+                    </label>
+                </div>
+                <div class="item">
+                    <div class="label">
+                        Тотальная
+                    </div>
+                    <label for="check5" class="radio">
+                        <input type="checkbox" id="check5">
+                    </label>
+                </div>
+            </div>
+
+        </div>
+
+        <div class="sector">
+            <div class="item">
+                <div class="label">
+                    Расчет Утраты Товарной Стоимости (УТС):
+                    <a class="faq" href="#"></a>
+                </div>
+                <label for="check6" class="active">
+                    <input type="checkbox" id="check6">
+                </label>
+            </div>
+
+        </div>
+        <div class="sector">
+            <div class="item">
+                <div class="label">
+                    Расчет стоимости годных остатков
+                    <a class="faq" href="#"></a>
+                </div>
+                <label for="check7">
+                    <input type="checkbox" id="check7">
+                </label>
+            </div>
+
+        </div>
+        <div class="sector last">
+            <div class="item">
+                <div class="label">
+                    Определение рыночной стоимости
+                </div>
+                <label for="check8">
+                    <input type="checkbox" id="check8">
+                </label>
+            </div>
+
+        </div>
+    </div>
+    <div class="bot_calc">
+    <div class="sum"><strong>Сумма: </strong>3500 руб.</div>
+    <a class="addservice" href="#">Дополнительные услуги</a>
+    </div>
+    <a class="zakazat" href="#">Заказать автоэкспертизу</a>
+
+</div>
+
+
+</div>
+</div>
+<div class="clr"></div>
+<div class="container_bot">
+    <div class="left">
+        <div class="made">дизайн сайта &mdash; <a href="#">DK</a></div>
+    </div>
+    <div class="right">
+        <div class="bot_phone">
+            Телефон: (495) 995–82–58<br>
+            электронная почта: <a href="#">welcome@intelis-it.ru</a>
+        </div>
+        <div class="shems">
+            Схемы проезда:<br>
+            <a href="#">Земляной Вал</a>,
+            <a href="#">Рязанский проспект</a>
+        </div>
+
+    </div>
+</div>
+</div>
+
+</body>
+</html>
