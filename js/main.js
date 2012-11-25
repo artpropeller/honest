@@ -44,6 +44,11 @@ $(function () {
         grayscale(this);
     });
 
+    $('#calculator input').change(function () {
+        $(this).parent().toggleClass('active');
+
+    });
+
 
     resizeBlock();
     $(window).resize(function () {

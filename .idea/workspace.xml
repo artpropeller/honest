@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="84e6df11-cff0-429e-978a-310fceced657" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/calc.html" afterPath="$PROJECT_DIR$/calc.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/main.js" afterPath="$PROJECT_DIR$/js/main.js" />
     </list>
     <ignored path="HONEST.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -41,19 +42,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="auto.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/auto.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="89" selection-start="372" selection-end="372" vertical-scroll-proportion="-4.576923">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="163" column="14" selection-start="2262" selection-end="2262" vertical-scroll-proportion="0.47311828">
+            <state line="163" column="14" selection-start="2262" selection-end="2262" vertical-scroll-proportion="-110.84">
               <folding>
                 <element signature="e#27212#27875#2" expanded="true" />
                 <element signature="e#30445#31108#2" expanded="true" />
@@ -63,10 +55,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="calc.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="40" column="31" selection-start="823" selection-end="823" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="calc.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/calc.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="89" selection-start="372" selection-end="372" vertical-scroll-proportion="-4.576923">
+            <state line="159" column="48" selection-start="5094" selection-end="5094" vertical-scroll-proportion="0.6923077">
               <folding />
             </state>
           </provider>
@@ -134,9 +135,7 @@
         <option value="$PROJECT_DIR$/law3.html" />
         <option value="$PROJECT_DIR$/law4.html" />
         <option value="$PROJECT_DIR$/css/style_copy.css" />
-        <option value="$PROJECT_DIR$/js/main.js" />
         <option value="$PROJECT_DIR$/auto.html" />
-        <option value="$PROJECT_DIR$/calc.html" />
         <option value="$PROJECT_DIR$/corporate-2.html" />
         <option value="$PROJECT_DIR$/corporate-3.html" />
         <option value="$PROJECT_DIR$/corporate.html" />
@@ -145,6 +144,8 @@
         <option value="$PROJECT_DIR$/law5.html" />
         <option value="$PROJECT_DIR$/legkoe.html" />
         <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/js/main.js" />
+        <option value="$PROJECT_DIR$/calc.html" />
       </list>
     </option>
   </component>
@@ -323,7 +324,11 @@
       <created>1353849979839</created>
       <updated>1353849979839</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="last_change">
+      <created>1353850067888</created>
+      <updated>1353850067889</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -429,21 +434,7 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="18" selection-start="810" selection-end="810" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/auto.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="89" selection-start="372" selection-end="372" vertical-scroll-proportion="-4.576923">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/calc.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="89" selection-start="372" selection-end="372" vertical-scroll-proportion="-4.576923">
           <folding />
@@ -501,12 +492,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="163" column="14" selection-start="2262" selection-end="2262" vertical-scroll-proportion="0.47311828">
+        <state line="163" column="14" selection-start="2262" selection-end="2262" vertical-scroll-proportion="-110.84">
           <folding>
             <element signature="e#27212#27875#2" expanded="true" />
             <element signature="e#30445#31108#2" expanded="true" />
             <element signature="e#34125#34788#2" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="31" selection-start="823" selection-end="823" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/calc.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="159" column="48" selection-start="5094" selection-end="5094" vertical-scroll-proportion="0.6923077">
+          <folding />
         </state>
       </provider>
     </entry>
