@@ -35,7 +35,7 @@
       <file leaf-file-name="main.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="35" column="11" selection-start="721" selection-end="721" vertical-scroll-proportion="0.6393211">
+            <state line="40" column="18" selection-start="810" selection-end="810" vertical-scroll-proportion="0.5049505">
               <folding />
             </state>
           </provider>
@@ -280,7 +280,11 @@
       <created>1353849310340</created>
       <updated>1353849310340</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="last_change">
+      <created>1353849384621</created>
+      <updated>1353849384621</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -443,7 +447,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="11" selection-start="721" selection-end="721" vertical-scroll-proportion="0.6393211">
+        <state line="40" column="18" selection-start="810" selection-end="810" vertical-scroll-proportion="0.5049505">
           <folding />
         </state>
       </provider>

@@ -32,13 +32,16 @@ $(function () {
         $('.consult_window').fadeOut(100);
     });
 
-//    grayscale.prepare( $('.slider img') );
-    grayscale($('.slider img'));
+    $(window).load(function () {
+        $('.slider img').each(function () {
+            grayscale(this);
+        });
+    });
 
     $('.slider img').hover(function () {
-        grayscale.reset($(this));
+        grayscale.reset(this);
     }, function () {
-        grayscale($(this));
+        grayscale(this);
     });
 
 
@@ -68,3 +71,4 @@ function resizeBlock() {
     });
 
 }
+
