@@ -3,7 +3,15 @@
   <component name="ChangeListManager">
     <list default="true" id="84e6df11-cff0-429e-978a-310fceced657" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/main.js" afterPath="$PROJECT_DIR$/js/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/auto.html" afterPath="$PROJECT_DIR$/auto.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/calc.html" afterPath="$PROJECT_DIR$/calc.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/corporate-2.html" afterPath="$PROJECT_DIR$/corporate-2.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/corporate-3.html" afterPath="$PROJECT_DIR$/corporate-3.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/corporate.html" afterPath="$PROJECT_DIR$/corporate.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/law.html" afterPath="$PROJECT_DIR$/law.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/legkoe.html" afterPath="$PROJECT_DIR$/legkoe.html" />
     </list>
     <ignored path="HONEST.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,16 +34,25 @@
       <file leaf-file-name="law5.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/law5.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="51" selection-start="449" selection-end="449" vertical-scroll-proportion="-5.230769">
+            <state line="7" column="114" selection-start="397" selection-end="397" vertical-scroll-proportion="-4.576923">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/js/main.js">
+      <file leaf-file-name="legkoe.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/legkoe.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="40" column="18" selection-start="810" selection-end="810" vertical-scroll-proportion="0.5049505">
+            <state line="8" column="66" selection-start="464" selection-end="464" vertical-scroll-proportion="0.20512821">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="auto.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/auto.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="89" selection-start="372" selection-end="372" vertical-scroll-proportion="-4.576923">
               <folding />
             </state>
           </provider>
@@ -44,11 +61,11 @@
       <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1977" column="1" selection-start="36214" selection-end="36214" vertical-scroll-proportion="0.0">
+            <state line="144" column="16" selection-start="2022" selection-end="2022" vertical-scroll-proportion="-5.52">
               <folding>
-                <element signature="e#27110#27773#2" expanded="true" />
-                <element signature="e#30343#31006#2" expanded="true" />
-                <element signature="e#34023#34686#2" expanded="true" />
+                <element signature="e#27171#27834#2" expanded="true" />
+                <element signature="e#30404#31067#2" expanded="true" />
+                <element signature="e#34084#34747#2" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -57,37 +74,54 @@
       <file leaf-file-name="calc.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/calc.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="6" selection-start="22" selection-end="22" vertical-scroll-proportion="-0.65384614">
+            <state line="7" column="89" selection-start="372" selection-end="372" vertical-scroll-proportion="-4.576923">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="small_red_arow.jpg" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/small_red_arow.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
+      <file leaf-file-name="corporate-2.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/corporate-2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="66" selection-start="464" selection-end="464" vertical-scroll-proportion="-5.230769">
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="-consult_but.jpg" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/-consult_but.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
+      <file leaf-file-name="corporate-3.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/corporate-3.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="89" selection-start="372" selection-end="372" vertical-scroll-proportion="-4.576923">
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="consult_bg.jpg" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/consult_bg.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
+      <file leaf-file-name="corporate.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/corporate.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="89" selection-start="372" selection-end="372" vertical-scroll-proportion="-4.576923">
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="consult_big_buttton.png" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/consult_big_buttton.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="66" selection-start="464" selection-end="464" vertical-scroll-proportion="-5.230769">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="law.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/law.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="66" selection-start="464" selection-end="464" vertical-scroll-proportion="-5.230769">
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
@@ -104,16 +138,21 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/law.html" />
-        <option value="$PROJECT_DIR$/auto.html" />
         <option value="$PROJECT_DIR$/law2.html" />
         <option value="$PROJECT_DIR$/law3.html" />
         <option value="$PROJECT_DIR$/law4.html" />
-        <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/css/style_copy.css" />
-        <option value="$PROJECT_DIR$/law5.html" />
         <option value="$PROJECT_DIR$/js/main.js" />
+        <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/auto.html" />
+        <option value="$PROJECT_DIR$/calc.html" />
+        <option value="$PROJECT_DIR$/corporate-2.html" />
+        <option value="$PROJECT_DIR$/corporate-3.html" />
+        <option value="$PROJECT_DIR$/corporate.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/law.html" />
+        <option value="$PROJECT_DIR$/law5.html" />
+        <option value="$PROJECT_DIR$/legkoe.html" />
       </list>
     </option>
   </component>
@@ -284,7 +323,11 @@
       <created>1353849384621</created>
       <updated>1353849384621</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="last_change">
+      <created>1353849616481</created>
+      <updated>1353849616481</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -295,7 +338,7 @@
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24391988" sideWeight="0.6706667" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24391988" sideWeight="0.6706667" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32933334" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -370,36 +413,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/consult_big_buttton.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/red_active_punkt.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/right_line_razdel.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/top_right_line_razdel.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/consult_big_buttton.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/consult_bg.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/-consult_but.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -420,34 +433,83 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="18" selection-start="810" selection-end="810" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1977" column="1" selection-start="36214" selection-end="36214" vertical-scroll-proportion="0.0">
+        <state line="144" column="16" selection-start="2022" selection-end="2022" vertical-scroll-proportion="-5.52">
           <folding>
-            <element signature="e#27110#27773#2" expanded="true" />
-            <element signature="e#30343#31006#2" expanded="true" />
-            <element signature="e#34023#34686#2" expanded="true" />
+            <element signature="e#27171#27834#2" expanded="true" />
+            <element signature="e#30404#31067#2" expanded="true" />
+            <element signature="e#34084#34747#2" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auto.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="89" selection-start="372" selection-end="372" vertical-scroll-proportion="-4.576923">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/calc.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="6" selection-start="22" selection-end="22" vertical-scroll-proportion="-0.65384614">
+        <state line="7" column="89" selection-start="372" selection-end="372" vertical-scroll-proportion="-4.576923">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/corporate-2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="66" selection-start="464" selection-end="464" vertical-scroll-proportion="-5.230769">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/corporate-3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="89" selection-start="372" selection-end="372" vertical-scroll-proportion="-4.576923">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/corporate.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="89" selection-start="372" selection-end="372" vertical-scroll-proportion="-4.576923">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="66" selection-start="464" selection-end="464" vertical-scroll-proportion="-5.230769">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/law.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="66" selection-start="464" selection-end="464" vertical-scroll-proportion="-5.230769">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/law5.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="51" selection-start="449" selection-end="449" vertical-scroll-proportion="-5.230769">
+        <state line="7" column="114" selection-start="397" selection-end="397" vertical-scroll-proportion="-4.576923">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/main.js">
+    <entry file="file://$PROJECT_DIR$/legkoe.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="18" selection-start="810" selection-end="810" vertical-scroll-proportion="0.5049505">
+        <state line="8" column="66" selection-start="464" selection-end="464" vertical-scroll-proportion="0.20512821">
           <folding />
         </state>
       </provider>

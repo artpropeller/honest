@@ -141,6 +141,9 @@ a:hover {
 
 .slider li span {
     display: block;
+    position: relative;
+    z-index: 500;
+
 
 }
 
@@ -154,6 +157,7 @@ a:hover {
 
 .slider li img {
     margin-bottom: 5px;
+    opacity: 0.5;
 }
 
 .slider {
